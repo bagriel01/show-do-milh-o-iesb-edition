@@ -1,0 +1,7 @@
+﻿"show do milhão iesb edition.exe" (CoreCLR: DefaultDomain): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.4\System.Private.CoreLib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"show do milhão iesb edition.exe" (CoreCLR: clrhost): Carregado "C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\bin\Release\netcoreapp3.1\show do milhão iesb edition.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+Os símbolos do módulo "show do milhão iesb edition.dll" não foram carregados.
+
+1. Use uma configuração de compilação de depuração ou desabilite a opção de depuração "Habilitar Apenas Meu Código". 
+2. Verifique as configurações de "Símbolos" nas opções de depuração."show do milhão iesb edition.exe" (CoreCLR: clrhost): Carregado "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.4\System.Runtime.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+O programa "[10048] show do milhão iesb edition.exe" foi fechado com o código -1 (0xffffffff).

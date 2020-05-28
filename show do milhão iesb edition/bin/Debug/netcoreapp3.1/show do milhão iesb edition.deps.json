@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "show do milhão iesb edition/1.0.0": {
+        "runtime": {
+          "show do milhão iesb edition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "show do milhão iesb edition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

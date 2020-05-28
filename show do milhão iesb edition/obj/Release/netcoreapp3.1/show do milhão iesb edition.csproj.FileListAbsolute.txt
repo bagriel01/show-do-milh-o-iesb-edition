@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\obj\Release\netcoreapp3.1\show do milhão iesb edition.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\obj\Release\netcoreapp3.1\show do milhão iesb edition.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\obj\Release\netcoreapp3.1\show do milhão iesb edition.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\obj\Release\netcoreapp3.1\show do milhão iesb edition.AssemblyInfo.cs
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\bin\Release\netcoreapp3.1\show do milhão iesb edition.exe
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\bin\Release\netcoreapp3.1\show do milhão iesb edition.deps.json
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\bin\Release\netcoreapp3.1\show do milhão iesb edition.runtimeconfig.json
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\bin\Release\netcoreapp3.1\show do milhão iesb edition.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\bin\Release\netcoreapp3.1\show do milhão iesb edition.dll
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\bin\Release\netcoreapp3.1\show do milhão iesb edition.pdb
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\obj\Release\netcoreapp3.1\show do milhão iesb edition.dll
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\obj\Release\netcoreapp3.1\show do milhão iesb edition.pdb
+C:\Users\gabri\source\repos\show do milhão iesb edition\show do milhão iesb edition\obj\Release\netcoreapp3.1\show do milhão iesb edition.genruntimeconfig.cache
